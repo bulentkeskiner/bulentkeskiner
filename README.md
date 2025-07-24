@@ -131,7 +131,7 @@
 
 ## 🎓 Education
 
-### 🎓 **Computer Engineering (Bachelor's Degree)**
+### 💻 **Computer Engineering (Bachelor's Degree)**
 **Abdullah Gül University** | *Oct 2019 - Jul 2020* | Kayseri, Turkey
 
 ### 💻 **Computer Programming (Associate Degree)**
