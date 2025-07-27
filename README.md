@@ -12,6 +12,8 @@
 
 **A passionate mobile developer from Turkey** 🇹🇷
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bulentkeskiner&label=Profile%20views&color=0e75b6&style=flat" alt="utku-mese" /> </p>
+
 - 🔭 I'm currently working on **Cross-platform Mobile Applications**
 - 🌱 I'm currently learning **Advanced Flutter Techniques** and **SwiftUI**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/bulentkeskiner)
